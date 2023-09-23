@@ -1,4 +1,4 @@
-### Citations
+### Programmation
 > Il est plus difficile de lire du code que de l'écrire.
 
 > La plupart des bons programmeurs programment non pas parce qu'ils s'attendent à être payés ou acclamés par le public, mais parce que programmer est amusant.
@@ -8,6 +8,12 @@
 > Le débogage, c'est un peu comme être un détective dans un film policier où vous êtes aussi le meurtrier.
 
 > Il est beaucoup plus facile d'ajouter de la complexité que de la supprimer.
+
+### Productivité
+- Loi de Murphy: tout ce qui peut mal tourner, tournera mal.
+- Loi de Pareto: environ 80 % des effets résultent de 20 % des causes
+- Loi de Brooks: ajouter des personnes à un projet en retard accroît son retard
+- Loi de Carlson: tout travail interrompu sera moins efficace et prendra plus de temps que s'il était effectué de façon continue
 
 ### Questions après entretien
 1. Qu'est qui vous a plu dans mon CV ?
