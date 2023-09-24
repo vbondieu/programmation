@@ -1,0 +1,3 @@
+- invert if
+- deal with “exceptional”, or non-happy path (or non-standard path) cases first.
+- look out for “early exits” / “short circuits”
