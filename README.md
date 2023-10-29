@@ -23,7 +23,7 @@ Au-delà d’un certain seuil, l’efficacité humaine décroît, voire devient 
 
 ### Principes
 - Penser de façon critique tout en équilibrant différentes contraintes
-- Communiquer clairement mes idées (par exemple en utilisant toujours le même mot pour désigner une seule chose)
+- Communiquer clairement mes idées (en utilisant toujours le même mot pour désigner une seule chose)
 - Comprendre le problème et le besoin avant de concevoir en posant des questions de clarification
     1. Quelle est la latence demandée ?
     2. Combien de données ?
